@@ -6,7 +6,7 @@
   },
   "extends": "nx/presets/npm.json",
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "nxCloudAccessToken": "NTYyM2E0ZmItMTE3MC00Y2RjLTgzZGMtMjRlNTc1NTdlNzBkfHJlYWQtd3JpdGU=",
+  "nxCloudAccessToken": "",
   "targetDefaults": {
     "@nx/js:tsc": {
       "cache": true,
